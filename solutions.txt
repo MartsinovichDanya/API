@@ -2,3 +2,4 @@ https://github.com/MartsinovichDanya/API
 
 Исторический музей - historical_museum.py
 Округа - fed_okruga.py
+Области - Oblasti.py
