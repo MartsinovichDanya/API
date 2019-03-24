@@ -4,3 +4,5 @@ https://github.com/MartsinovichDanya/API
 Округа - fed_okruga.py
 Области - Oblasti.py
 Почтовый индекс - MUR.py
+Австралия - australia.py
+Стадионы Москвы - stadioni.py
