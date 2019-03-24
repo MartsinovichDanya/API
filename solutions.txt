@@ -6,3 +6,4 @@ https://github.com/MartsinovichDanya/API
 Почтовый индекс - MUR.py
 Австралия - australia.py
 Стадионы Москвы - stadioni.py
+Полный поиск - search.py
